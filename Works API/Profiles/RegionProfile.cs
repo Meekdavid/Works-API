@@ -1,4 +1,4 @@
-Efficient efficien
+Efficient efficie
 ﻿using AutoMapper;
 
 namespace Works_API.Profiles
