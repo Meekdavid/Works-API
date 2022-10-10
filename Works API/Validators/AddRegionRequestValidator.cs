@@ -1,4 +1,4 @@
-Efficie
+Effici
 ﻿using FluentValidation;
 
 namespace Works_API.Validators
