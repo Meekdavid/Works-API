@@ -1,4 +1,4 @@
-Efficient efficien
+Efficient efficie
 ﻿using FluentValidation;
 
 namespace Works_API.Validators
