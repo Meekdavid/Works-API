@@ -1,4 +1,4 @@
-Eff
+Ef
 ﻿using AutoMapper;
 
 namespace Works_API.Profiles
