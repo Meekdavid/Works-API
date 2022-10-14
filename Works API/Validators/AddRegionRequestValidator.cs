@@ -1,4 +1,4 @@
-Eff
+Ef
 using FluentValidation;
 
 namespace Works_API.Validators
