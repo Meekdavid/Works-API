@@ -1,4 +1,4 @@
-Efficient efficient efficien
+Efficient efficient efficie
 ﻿using Microsoft.AspNetCore.Mvc;
 using Works_API.Models.DTO;
 using Works_API.Repositories;
