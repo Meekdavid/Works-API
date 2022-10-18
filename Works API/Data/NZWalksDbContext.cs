@@ -1,4 +1,4 @@
-Efficient efficiency using usin
+Efficient efficiency using usi
 ﻿using Microsoft.EntityFrameworkCore;
 using Works_API.Models.Domain;
 
