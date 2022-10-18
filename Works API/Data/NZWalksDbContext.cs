@@ -1,4 +1,4 @@
-Efficient effici
+Efficient effic
 ﻿using Microsoft.EntityFrameworkCore;
 using Works_API.Models.Domain;
 
