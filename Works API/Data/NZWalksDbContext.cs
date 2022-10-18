@@ -1,5 +1,4 @@
-
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Works_API.Models.Domain;
 
 namespace Works_API.Data
