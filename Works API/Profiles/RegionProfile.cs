@@ -1,5 +1,5 @@
 Using AutoMapper
-Using Auto
+Using Aut
 using AutoMapper;
 
 namespace Works_API.Profiles
