@@ -1,4 +1,4 @@
-Usin
+Usi
 
 using AutoMapper;
 
