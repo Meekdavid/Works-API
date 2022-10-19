@@ -1,4 +1,4 @@
-Using Aut
+Using Au
 
 using AutoMapper;
 
