@@ -1,4 +1,4 @@
-Using AutoM
+Using Auto
 
 using AutoMapper;
 
