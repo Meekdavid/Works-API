@@ -1,4 +1,4 @@
-Effecti
+Effect
 ﻿namespace Works_API.Models.DTO
 {
     public class Region
