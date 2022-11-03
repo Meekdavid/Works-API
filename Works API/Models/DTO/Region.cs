@@ -1,4 +1,4 @@
-Effective
+Effectiv
 ﻿namespace Works_API.Models.DTO
 {
     public class Region
