@@ -1,5 +1,4 @@
-
-﻿namespace Works_API.Models.DTO
+namespace Works_API.Models.DTO
 {
     public class Region
     {
