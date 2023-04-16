@@ -1,5 +1,5 @@
 using FluentValidation;
-efficiency efficie
+efficiency effici
 namespace Works_API.Validators
 {
     public class AddRegionRequestValidator : AbstractValidator<Models.DTO.AddRegionRequest>
